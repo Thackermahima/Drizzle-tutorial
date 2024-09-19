@@ -5,7 +5,7 @@ build/
 
 # Drizzle migrations and schema
 drizzle/schema.ts
-drizzle/migrations/
+src/drizzle/migrations/
 drizzle/seed/
 drizzle-config.json
 
